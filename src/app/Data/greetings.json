@@ -1,0 +1,28 @@
+[
+  { "language": "English", "sentence": "Hello! I'm Harish." },
+  { "language": "Tamil", "sentence": "வணக்கம்! என் பெயர் ஹரிஷ்." },
+  { "language": "Telugu", "sentence": "నమస్తే! నా పేరు హరీష్." },
+  { "language": "Hindi", "sentence": "नमस्ते! मैं हरीश हूँ।" },
+  { "language": "Kannada", "sentence": "ನಮಸ್ಕಾರ! ನನ್ನ ಹೆಸರು ಹರಿಷ್." },
+  { "language": "Malayalam", "sentence": "നമസ്കാരം! എന്റെ പേര് ഹരീഷ് ആണ്." },
+  { "language": "Marathi", "sentence": "नमस्कार! माझं नाव हरीश आहे." },
+  { "language": "Gujarati", "sentence": "નમસ્તે! મારું નામ હરીશ છે." },
+  { "language": "Punjabi", "sentence": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ! ਮੇਰਾ ਨਾਮ ਹਰਿਸ਼ ਹੈ।" },
+  { "language": "Bengali", "sentence": "নমস্কার! আমার নাম হরিশ।" },
+  { "language": "Odia", "sentence": "ନମସ୍କାର! ମୋ ନାମ ହରିଶ୍।" },
+  { "language": "Assamese", "sentence": "নমস্কাৰ! মোৰ নাম হৰিষ।" },
+  { "language": "Urdu", "sentence": "السلام علیکم! میرا نام حریش ہے۔" },
+  { "language": "Konkani", "sentence": "नमस्कार! म्हारो नाव हरिष आसा." },
+
+  { "language": "Japanese", "sentence": "こんにちは！私は Harish です。" },
+  { "language": "French", "sentence": "Bonjour ! Je suis Harish." },
+  { "language": "Spanish", "sentence": "¡Hola! Soy Harish." },
+  { "language": "German", "sentence": "Hallo! Ich bin Harish." },
+  { "language": "Russian", "sentence": "Здравствуйте! Меня зовут Хариш." },
+  { "language": "Arabic", "sentence": "مرحبًا! اسمي هاريش." },
+  { "language": "Chinese (Mandarin)", "sentence": "你好！我是 Harish。" },
+  { "language": "Korean", "sentence": "안녕하세요! 저는 Harish입니다." },
+  { "language": "Turkish", "sentence": "Merhaba! Ben Harish." },
+  { "language": "Portuguese", "sentence": "Olá! Eu sou Harish." },
+  { "language": "Swahili", "sentence": "Hujambo! Mimi ni Harish." }
+]

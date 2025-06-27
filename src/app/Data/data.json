@@ -1,0 +1,78 @@
+{
+  "skills": [
+    { "id": "1", "name": "JavaScript" },
+    { "id": "2", "name": "ReactJS" },
+    { "id": "3", "name": "NextJS" },
+    { "id": "4", "name": "Serverpod" },
+    { "id": "5", "name": "Java" },
+    { "id": "6", "name": "Docker" },
+    { "id": "7", "name": "Tailwind CSS" },
+    { "id": "8", "name": "MongoDB" },
+    { "id": "9", "name": "PostgreSQL" },
+    { "id": "10", "name": "SQLite" },
+    { "id": "11", "name": "Flutter" },
+    { "id": "12", "name": "Dart" },
+    { "id": "13", "name": "Python" },
+    { "id": "14", "name": "Flask" }
+  ],
+  "experiences": [
+    {
+      "title": "Software Developer trainee",
+      "desc": "Current Job placement,Learning and working!",
+      "date": "present",
+      "company": "Spangles"
+    },
+    {
+      "title": "ML Development Intern",
+      "desc": "Worked on ML Model for Image Segmentation for Receipts",
+      "date": "Jan2025 - Mar2025",
+      "company": "MagnusVista"
+    },
+    {
+      "title": "Web Developer Intern",
+      "desc": "Created Web Quiz using ReactJS and API Integration",
+      "date": "Sep2024",
+      "company": "MagnusVista"
+    },
+    {
+      "title": "Hardware Servicing Engineer",
+      "desc": "Worked on Assembling on new machines and repairing old ones",
+      "date": "Jul2023 - Aug 2023",
+      "company": "Infogates"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "color": "bg-gradient-to-r from-red-300 to-blue-300",
+      "title": "Real-time Sales and Inventory Assistant",
+      "desc": "A smart inventory management system that tracks sales and stock in real-time for efficient retail operations.",
+      "img": "https://images.pexels.com/photos/5025643/pexels-photo-5025643.jpeg",
+      "link": "https://github.com/dark-capricornus/inventory-assistant.git"
+    },
+    {
+      "id": "2",
+      "color": "bg-gradient-to-r from-blue-300 to-violet-300",
+      "title": "Brain Tumor Detection using CNN",
+      "desc": "A deep learning model leveraging Convolutional Neural Networks to accurately detect brain tumors from medical images.",
+      "img": "https://images.pexels.com/photos/5723875/pexels-photo-5723875.jpeg",
+      "link": "https://github.com/dark-capricornus/Brain-tumor-detection-using-cnn.git"
+    },
+    {
+      "id": "3",
+      "color": "bg-gradient-to-r from-violet-300 to-purple-300",
+      "title": "Quiz-API integrated ReactJS Quiz App",
+      "desc": "An interactive quiz application built with ReactJS, powered by dynamic API integration for real-time question delivery.",
+      "img": "https://images.pexels.com/photos/5428830/pexels-photo-5428830.jpeg",
+      "link": "https://github.com/dark-capricornus/quiz-app-using-react.git"
+    },
+    {
+      "id": "4",
+      "color": "bg-gradient-to-r from-purple-300 to-red-300",
+      "title": "Image and Receipt classifier for bill Segmentation",
+      "desc": "A machine learning solution to classify and extract structured data from images of receipts and bills.",
+      "img": "https://images.pexels.com/photos/5900135/pexels-photo-5900135.jpeg",
+      "link": "https://github.com/dark-capricornus/image-classification-and-text-recognition.git"
+    }
+  ]
+}
