@@ -1,11 +1,10 @@
 {
-  "name": "lama-dev-portfolio-starter",
+  "name": "harish-portfolio",
   "version": "0.1.0",
-  "private": true,
-  "scripts": {
+  "private": true,  "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "build": "next build", 
+    "start": "next start -H 0.0.0.0 -p ${PORT:-10000}",
     "lint": "next lint"
   },
   "dependencies": {
